@@ -1,0 +1,472 @@
+[
+  {
+    "name": "hero",
+    "width": 1024,
+    "height": 1536,
+    "masterBytes": 1951690,
+    "sha256": "e3f926b4b99c49e29fe16296bf351e46d15e767716140ba8aede577085b8d7fe",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Portrait 2:3. A spectacular intimate coastal wedding reception on a contemporary Queensland terrace: one beautifully curved white table, soft coral and peach flowers, dark navy linen accents, white curved dining chairs, sculptural white parasols, subtropical garden and a glimpse of sparkling blue water. Framing from terrace corner, rich clear colours, detailed foliage and crisp crystal glasses. Elegant airy architectural scene, no people and no wedding arch. f/8 deep focus. A completely new composition.",
+    "responsive": [
+      {
+        "file": "hero-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 233102,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "hero-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 502174,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "hero-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 1216040,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      }
+    ]
+  },
+  {
+    "name": "studio",
+    "width": 1024,
+    "height": 1536,
+    "masterBytes": 1493888,
+    "sha256": "507a1f716fa848c3962d5f107da8e6421c5a4e2147019e17285c07fc3ff435b1",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Portrait 2:3. A warm Australian event planner of East Asian appearance in her early forties, wearing an elegant navy cotton blouse, standing at a broad timber studio workbench and reviewing coral fabric swatches and a physical blank-paper moodboard. Contemporary light-filled creative studio with off-white walls, neatly arranged vases and subtle greenery. Natural candid working moment, realistic hands, clear facial detail and real skin texture, f/8 environmental portrait. One person only.",
+    "responsive": [
+      {
+        "file": "studio-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 178922,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "studio-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 99704,
+        "quality": 96,
+        "psnrDb": 40.28
+      },
+      {
+        "file": "studio-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 211452,
+        "quality": 96,
+        "psnrDb": 42.63
+      }
+    ]
+  },
+  {
+    "name": "weddings",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 2682094,
+    "sha256": "5fb7a8b24bfa0a078d690b92ab7aa13b2eafe338963e6391fdd8d57bded9ed08",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. A modern intimate wedding ceremony in a tropical private garden: white timber chairs set on a manicured lawn, sculptural circular coral and ivory floral installation, white Queenslander veranda at the edge, palms and native greenery. The couple is absent, the composition shows a complete beautiful ceremony setting at a human eye-level angle. Fresh clean morning light, distinct individual petals and leaf detail, f/8. No dining tables.",
+    "responsive": [
+      {
+        "file": "weddings-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 134772,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "weddings-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 290986,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "weddings-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 732690,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "weddings-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 1286184,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "weddings-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 1949196,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      }
+    ]
+  },
+  {
+    "name": "celebrations",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 1588680,
+    "sha256": "af0753584b373c8ebb07ccf5f387b10cbc3aed62bf7f41ab70c16edec067b8e1",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. A sophisticated adult milestone birthday celebration set inside a beautiful contemporary Queensland home opening onto a garden. Coral and cream sculptural cake with no lettering, elegant peach flowers, tasteful small matte coral balloon arrangement, low white plinths, navy fabric accents and champagne coupes. An asymmetrical composition with character and natural sunlight. No people, no wedding decoration, no long banquet tables. Crisp f/8 detail.",
+    "responsive": [
+      {
+        "file": "celebrations-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 98150,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "celebrations-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 200446,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "celebrations-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 472696,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "celebrations-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 811056,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "celebrations-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 292964,
+        "quality": 96,
+        "psnrDb": 40.65
+      }
+    ]
+  },
+  {
+    "name": "corporate",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 1432324,
+    "sha256": "7a5e2e35e9de3fd197635ad42e8339e54160eb67fbc5c16c866853237a3fc090",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. A contemporary daytime business event in a bright Brisbane architectural venue. Round navy linen cocktail tables with small coral flower arrangements, a compact presentation stage with plain unmarked navy backdrop, clear city windows, a few smartly dressed adults conversing naturally in small groups. Medium-wide professional environmental event photograph; realistic faces and hands, clear fine detail, f/8. No logos, no fake lettering and no dinner banquet rows.",
+    "responsive": [
+      {
+        "file": "corporate-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 85306,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "corporate-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 177348,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "corporate-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 429114,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "corporate-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 184278,
+        "quality": 96,
+        "psnrDb": 41.22
+      },
+      {
+        "file": "corporate-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 250982,
+        "quality": 96,
+        "psnrDb": 42.43
+      }
+    ]
+  },
+  {
+    "name": "styling",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 1774864,
+    "sha256": "70587e506a175ff18934ee72430f9dbea2cfafd74e4e7e7a86d917278fb69a64",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. A striking high-end event styling installation beneath an airy white pavilion: sculptural coral fabric backdrop, carefully spaced white ceramic plinths, artistic peach and coral roses with white anthuriums, a small navy velvet bench, travertine flooring. Beautiful balanced contemporary design photographed straight-on from a slight diagonal. No people, no tables, no printed signage, no balloons. Clear directional daylight, precise material texture, f/8.",
+    "responsive": [
+      {
+        "file": "styling-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 95868,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "styling-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 203546,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "styling-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 500748,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "styling-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 344110,
+        "quality": 100,
+        "psnrDb": 40.01
+      },
+      {
+        "file": "styling-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 383698,
+        "quality": 96,
+        "psnrDb": 40.72
+      }
+    ]
+  },
+  {
+    "name": "florals",
+    "width": 1024,
+    "height": 1536,
+    "masterBytes": 1765036,
+    "sha256": "84e133792d7393f6f35a244363fa7f557b4b577db969abf7b5fd1545e824e9f4",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Portrait 2:3. A tightly composed sculptural event floral arrangement with coral peonies, white orchids, peach roses and a few delicate branches in a matte ivory vessel on a pale stone plinth. A rich dark navy rendered wall behind, soft clear window light illuminating every petal, true coral and cream colours, sharp floral details from front to back, f/11 still-life photography. No people, lettering or surrounding dinner table.",
+    "responsive": [
+      {
+        "file": "florals-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 200672,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "florals-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 435458,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "florals-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 1090078,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      }
+    ]
+  },
+  {
+    "name": "champagne",
+    "width": 1024,
+    "height": 1536,
+    "masterBytes": 1526376,
+    "sha256": "4abc623304f3309c2608141ad10024648002d931f2b641ba175433f6803d2463",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Portrait 2:3. A beautiful champagne coupe tower on a small round ivory pedestal at a refined cocktail event, seven elegant clear coupes forming a compact realistic stable arrangement. One server's naturally proportioned hand carefully pouring champagne from an unlabelled plain bottle into the top glass. Coral flowers stand off to one side, navy linen background and clear warm late-afternoon light. Crisp glass edges and liquid reflections, realistic hands, f/8. No brand labels, no text.",
+    "responsive": [
+      {
+        "file": "champagne-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 182412,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "champagne-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 392758,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "champagne-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 223444,
+        "quality": 96,
+        "psnrDb": 40.04
+      }
+    ]
+  },
+  {
+    "name": "music",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 1820904,
+    "sha256": "6c13a82f5c35b6f89e93df2799bd8d390b13ff181938ae8bf1a85bdaa3110e15",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. An intimate live acoustic duo performing at an elegant garden celebration in Queensland. Two adults: a female vocalist beside a simple microphone and a male guitarist with a natural timber acoustic guitar, tasteful navy and ivory clothing, a small coral flower arrangement, a handful of relaxed adult guests seated in the background beneath a white pergola. Natural real expressions, anatomically plausible hands, documentary event photography with sharp faces and instrument detail, f/8 clear afternoon light.",
+    "responsive": [
+      {
+        "file": "music-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 116108,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "music-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 238622,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "music-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 554120,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "music-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 930256,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "music-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 371006,
+        "quality": 96,
+        "psnrDb": 40.08
+      }
+    ]
+  },
+  {
+    "name": "evening",
+    "width": 1536,
+    "height": 1024,
+    "masterBytes": 1995996,
+    "sha256": "d8f5177591fb9f9e9f4c14834c64713269e91114f211e0fc4dd954138b3b42de",
+    "prompt": "Use case: photorealistic-natural. Create one premium professional editorial photograph for a Brisbane event-planning website. Actual realistic photography with natural textures, crisp fine details and balanced exposure. Clear neutral daylight unless the scene explicitly says evening. No text, words, signs, logos, watermark, fog, haze, diffusion glow, grain, soft focus, artificial bokeh or render look. Highest available native resolution. Landscape 3:2. A beautifully composed private dinner on a Queensland rooftop terrace just after sunset, under a deep clear blue sky. An intimate oval ivory dinner table with coral flowers and dark navy napkins, clear crystal glasses, small candles and simple overhead festoon lighting. City buildings form a crisp background. Professional flash-balanced evening architecture photography: detailed place settings, realistic lighting with clear shadows, no bloom or murky darkness. No people, no haze or fog.",
+    "responsive": [
+      {
+        "file": "evening-320.webp",
+        "width": 320,
+        "height": 213,
+        "bytes": 107182,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "evening-480.webp",
+        "width": 480,
+        "height": 320,
+        "bytes": 227890,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "evening-768.webp",
+        "width": 768,
+        "height": 512,
+        "bytes": 561512,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "evening-1024.webp",
+        "width": 1024,
+        "height": 683,
+        "bytes": 984968,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "evening-1280.webp",
+        "width": 1280,
+        "height": 853,
+        "bytes": 1458874,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      }
+    ]
+  },
+  {
+    "name": "table-detail",
+    "width": 1024,
+    "height": 1536,
+    "masterBytes": 1905576,
+    "sha256": "9e047a5fbc25880fd31eab4802176e233d1a4917f38ef585c4aaec2ee14fb553",
+    "prompt": "Use case: photorealistic-natural. Asset type: a portrait editorial detail photograph for a premium Brisbane event planner website, paired with a sunny coastal reception photograph. Create one beautiful close-up still life at a real outdoor reception table: a single ivory ceramic scalloped dinner plate, perfectly folded deep navy linen napkin resting diagonally across the plate, one small peach rose and coral sweet pea sprig, thin brushed gold cutlery correctly placed, two clear finely ribbed stem glasses. Warm ivory tablecloth with subtle natural weave. A tiny low ivory bud vase with two coral flowers near the top corner. Shoot obliquely from above with the full plate visible and plenty of breathing room. Portrait 2:3. Bright clear late afternoon side daylight, white balanced and natural, deep navy shadows retain texture, f/11 depth of field with the plate, napkin, petals and glasses all crisp. Refined authentic hospitality editorial photography, real material texture, graceful irregular flower shapes. Scene should feel personal, quiet, professionally styled and believable. No people, hands, text, printed menus, logos, watermarks, mist, haze, blur on the main subject, dreamy filter, motion blur, duplicate cutlery, warped glass, plastic surfaces, excessive decorations or repeated plates.",
+    "responsive": [
+      {
+        "file": "table-detail-320.webp",
+        "width": 320,
+        "height": 480,
+        "bytes": 202684,
+        "quality": "lossless",
+        "psnrDb": 99.0
+      },
+      {
+        "file": "table-detail-480.webp",
+        "width": 480,
+        "height": 720,
+        "bytes": 171996,
+        "quality": 98,
+        "psnrDb": 40.09
+      },
+      {
+        "file": "table-detail-768.webp",
+        "width": 768,
+        "height": 1152,
+        "bytes": 348418,
+        "quality": 96,
+        "psnrDb": 41.4
+      }
+    ]
+  }
+]
